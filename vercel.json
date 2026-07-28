@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/세특-스튜디오.html"
+    }
+  ]
+}
